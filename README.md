@@ -17,3 +17,5 @@ Each trial is obtained by doing the following:
 
 
 5 trials were obtained, with over 6 hours between each trial to ensure the resource had sufficient time to cool down. Each data point was averaged over the trials to obtain the values graphed above.
+
+The Matplotlib library was used to plot the graphs, the plotting code can be found in [delay-graphs.ipynb](delay-graphs.ipynb).
